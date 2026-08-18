@@ -4,6 +4,4 @@ def count_char(string,target):
         if ch==target:
             count=count+1
     print(count)
-count_char("ilamvinodini","i")    
-      
-            
+count_char("ilamvinodini","i")
