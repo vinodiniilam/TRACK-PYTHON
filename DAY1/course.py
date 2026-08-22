@@ -1,3 +1,4 @@
+
 class Course:
     def __init__(self,name,duration,trainer,technologies,start_date,end_date):
         self.name=name
