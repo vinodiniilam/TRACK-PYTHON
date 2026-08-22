@@ -9,4 +9,4 @@ def mini_calculator(num1,num2,operator):
         return num1/num2
     else:    
         return "invailid operator"
-print(mini_calculator(10,20,'//'))
+print(mini_calculator(10,20,'+'))
