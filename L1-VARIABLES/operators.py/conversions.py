@@ -1,4 +1,4 @@
-"""#formula to convert the celsius into fahrenheit
+#formula to convert the celsius into fahrenheit
 #f=(c*9/5)+32
 temp=43
 fahrenheit=(temp*9/5)+32
@@ -26,7 +26,7 @@ print(sec_5,M,H)
 birth_year=2005
 current_year=2026
 age=current_year-birth_year
-print(age)"""
+print(age)
 #profit loss
 sp=1500
 cp=1200

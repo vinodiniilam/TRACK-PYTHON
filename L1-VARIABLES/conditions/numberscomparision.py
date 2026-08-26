@@ -1,5 +1,5 @@
 #comparing two numbers and returning the small and large numbers.
-"""a=int(input("enterthe first number: "))
+a=int(input("enterthe first number: "))
 b=int(input("enter the second number: "))
 if a>b:
     small=b
@@ -33,7 +33,7 @@ else:
 if a==b and b==c:
     print("the numbers are equal")    
 else:
-    print("the smallest number is:",small)    """
+    print("the smallest number is:",small)    
 n=int(input("enter the first number: "))    
 m=int(input("enter the second number: "))
 if n>m:

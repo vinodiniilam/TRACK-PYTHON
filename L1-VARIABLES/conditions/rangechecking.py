@@ -1,4 +1,4 @@
-"""
+
 #given number is in range or not using if condition
 n=int(input("enter the number: "))
 if n in range(10,51):
@@ -16,7 +16,7 @@ n=int(input("enter the number: "))
 if n in range(10,100):
     print("two digit number")
 else:
-    print("three digit number")"""
+    print("three digit number")
 n=int(input("enter a number: "))
 if n<10:
     print("one digit number")
