@@ -1,4 +1,4 @@
-"""n=int(input("enter the number: "))
+n=int(input("enter the number: "))
 if n%3==0 and n%5==0:
     print("the number is divisible by both")
 else:
@@ -14,7 +14,7 @@ attendance=float(input("enter the attendance percentage: "))
 if percentage>=75 and attendance>=75:
     print("eligible for the exam")
 else:
-    print("not eligible for the exam") """
+    print("not eligible for the exam") 
 #if number is divisible by but not 10
 n=int(input("enter the number: ")) 
 if n%5==0 and n%10!=0: 

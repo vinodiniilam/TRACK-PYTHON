@@ -13,3 +13,31 @@ elif n==2:
     print("the month has 28 or 29 days")
 else:
     print("invalid month number") 
+#finding name by using number of month
+n=int(input("enter the no of month: "))
+if n==1:
+    print("january")
+elif n==2:
+    print("february")
+elif n==3:
+    print("march")
+elif n==4:
+    print("april")
+elif n==5:
+    print("may")
+elif n==6:
+    print("june")
+elif n==7:
+    print("july")
+elif n==8:
+    print("august")
+elif n==9:
+    print("september")
+elif n==10:
+    print("october")
+elif n==11:
+    print("november")
+elif n==12:
+    print("december")
+else:
+    print("invalid month number") 

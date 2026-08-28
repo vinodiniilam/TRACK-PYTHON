@@ -1,4 +1,4 @@
-"""amount=int(input("enter the amount: "))
+amount=int(input("enter the amount: "))
 if amount>=5000:
     discount=(20/100)*amount
     print(discount)
@@ -20,7 +20,7 @@ elif units>100 and units<=200:
     print("the total bill paid is:",cost)
 else:
     cost=units*5 
-    print("the total bill paid is:",cost)"""
+    print("the total bill paid is:",cost)
 # salary bonus
 experience=int(input("enter the experience: ")) 
 salary=int(input("enter the salary: "))

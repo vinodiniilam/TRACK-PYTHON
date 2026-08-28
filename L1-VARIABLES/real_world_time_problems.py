@@ -1,4 +1,4 @@
-"""# time splitting
+# time splitting
 n=int(input("enter the time: "))
 if n>=5 and n<=11:
     print("Morning")
@@ -32,7 +32,7 @@ if a==b==c:
 elif a==b or b==c or c==a:
     print("Isosceles triangle")
 else:
-    print("Scalene triangle")"""
+    print("Scalene triangle")
 #right angle traingle
 a=int(input("enter the value: "))
 b=int(input("enter the value: "))

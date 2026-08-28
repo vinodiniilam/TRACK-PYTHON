@@ -67,5 +67,4 @@ if age>=21:
         print("the qualification does not met")   
 else:
     print("age is not elgible")             
-    
 
